@@ -1,0 +1,7 @@
+{% extends "CMSBundle:Templates:"~template|default(base_template) %}
+
+{% block title %}Ошибка: {{ status_text }}{% endblock %}
+{% block body %}
+<h1>Ошибка</h1>
+Ошибка сервера.
+{% endblock %}
