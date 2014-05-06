@@ -2,7 +2,7 @@
     "name": "sandello-alkr/exceptionsbundle",
     "type": "symfony-bundle",
     "require": {
-        "php": ">=5.3.2",
+        "php": ">=5.3.2"
     },
     "license": "MIT",
     "authors": [
